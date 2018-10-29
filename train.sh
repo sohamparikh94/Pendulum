@@ -1,0 +1,1 @@
+python train_nn.py --num_files 5 --num_layers 3 --num_units 20 20 20 --act relu --optimizer adam --batch_size 32 --learning_rate 0.00001 --num_epochs 30 --loss_function mse --save_path model

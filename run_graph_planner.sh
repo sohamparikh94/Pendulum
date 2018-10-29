@@ -1,0 +1,1 @@
+python graph_planner.py @@model_path model/model.hdf5 @@bins_a 20 @@bins_b 20 @@bins_action 100 @@range_a -1 1 @@range_b -8 8 @@range_action -2 2 @@start -0.5 -1 @@end 0.5 1 
